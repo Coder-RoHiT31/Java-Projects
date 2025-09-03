@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AESUtil/AESUtil.iml" filepath="$PROJECT_DIR$/AESUtil/AESUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatApplication/ChatApplication.iml" filepath="$PROJECT_DIR$/ChatApplication/ChatApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Custom_HTTP_Proxy_Server/Custom_HTTP_Proxy_Server.iml" filepath="$PROJECT_DIR$/Custom_HTTP_Proxy_Server/Custom_HTTP_Proxy_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuestReservationSystem/GuestReservationSystem.iml" filepath="$PROJECT_DIR$/GuestReservationSystem/GuestReservationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HangManGame/HangManGame.iml" filepath="$PROJECT_DIR$/HangManGame/HangManGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Projects.iml" filepath="$PROJECT_DIR$/Java_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingSystem/ParkingSystem.iml" filepath="$PROJECT_DIR$/ParkingSystem/ParkingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Real-TimeWeatherConsole/Real-TimeWeatherConsole.iml" filepath="$PROJECT_DIR$/Real-TimeWeatherConsole/Real-TimeWeatherConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealTimeStockTracker/RealTimeStockTracker.iml" filepath="$PROJECT_DIR$/RealTimeStockTracker/RealTimeStockTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarketBillingSystem/SuperMarketBillingSystem.iml" filepath="$PROJECT_DIR$/SuperMarketBillingSystem/SuperMarketBillingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TempratureConvertor/TempratureConvertor.iml" filepath="$PROJECT_DIR$/TempratureConvertor/TempratureConvertor.iml" />
+    </modules>
+  </component>
+</project>
